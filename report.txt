@@ -1,0 +1,18 @@
+● #701
+ GPA Bug → Used CamelCase for class, snake_case for
+methods, added 4.0/4.3 scale.
+-----------------------------
+● #702
+ Missing File → Added os.path.exists() + try/except so
+system doesn’t crash.
+----------------------------
+● #703 Scaling → Switched from lists to dict/defaultdict for
+fast lookups.
+--------------------------------
+● #704
+ No Audit Trail → Added logging to track file
+saves/loads.
+--------------------------------------
+● #705 
+Unreadable Code → Refactored intern code: clear
+naming, docstrings, functions, classes.
